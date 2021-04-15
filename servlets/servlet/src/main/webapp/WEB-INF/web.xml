@@ -6,7 +6,8 @@
          version="4.0">
 
     <welcome-file-list>
-        <welcome-file>Entity.html</welcome-file>
+        <welcome-file>/bogdan</welcome-file>
     </welcome-file-list>
+
 
 </web-app>
