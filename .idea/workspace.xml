@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c02aa1-eee2-4ac7-bdb2-832daaa31237" name="Default Changelist" comment="Home work 3 Marchenko B" />
+    <list default="true" id="a6c02aa1-eee2-4ac7-bdb2-832daaa31237" name="Default Changelist" comment="Home work 3 Marchenko BS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +172,7 @@
       <workItem from="1617172075337" duration="19000" />
       <workItem from="1617208653179" duration="13552000" />
       <workItem from="1617548154551" duration="382000" />
-      <workItem from="1618414848375" duration="8540000" />
+      <workItem from="1618414848375" duration="8840000" />
     </task>
     <task id="LOCAL-00001" summary="new commit">
       <created>1614205827525</created>
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618481068097</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Home work 3 Marchenko BS">
+      <created>1618481800429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618481800429</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +224,7 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="Home work 2 Marchenko" />
     <MESSAGE value="Home work 3 Marchenko B" />
-    <option name="LAST_COMMIT_MESSAGE" value="Home work 3 Marchenko B" />
+    <MESSAGE value="Home work 3 Marchenko BS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home work 3 Marchenko BS" />
   </component>
 </project>
